@@ -25,7 +25,6 @@
 ### Backend
 
 * Run Spring Boot app in Eclipse
-* Runs on: http://localhost:8081
 
 ### Frontend
 
