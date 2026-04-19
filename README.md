@@ -6,6 +6,8 @@
 * Backend: Spring Boot
 * Database: MySQL
 
+---
+
 ## ✨ Features
 
 * Patient Registration
@@ -15,24 +17,56 @@
 * Smart Doctor Assignment
 * Real-time Queue Updates
 
+---
+
+## 📸 Screenshots
+
+### 🏠 Landing Page
+
+![Landing Page](screenshots/landing_pg.png)
+
+---
+
+### 📝 Patient Registration
+
+![Patient Registration](screenshots/patient_registration.png)
+
+---
+
+### 📅 Book Appointment
+
+![Booking 1](screenshots/book_appointment1.png)
+![Booking 2](screenshots/book_appointment2.png)
+![Booking 3](screenshots/book_appointment3.png)
+
+---
+
 ## 📂 Project Structure
 
 * `/backend` → Spring Boot API
 * `/frontend` → React UI
 
+---
+
 ## ▶️ How to Run
 
-### Backend
+### 🔹 Backend
 
-* Run Spring Boot app in Eclipse
+* Open in Eclipse
+* Run `SpringbootFirstAppApplication.java`
+* Runs on: `http://localhost:8080`
 
-### Frontend
+---
+
+### 🔹 Frontend
 
 ```bash
 cd frontend
 npm install
 npm start
 ```
+
+Runs on: `http://localhost:3000`
 
 ---
 
@@ -41,9 +75,10 @@ npm start
 * Admin Dashboard
 * Charts & Analytics
 * Authentication System
+* Notifications System
 
 ---
 
 ## 👨‍💻 Author
 
-Diptadeep Sinha
+**Diptadeep Sinha**
