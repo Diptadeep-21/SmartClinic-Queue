@@ -54,7 +54,6 @@
 
 * Open in Eclipse
 * Run `SpringbootFirstAppApplication.java`
-* Runs on: `http://localhost:8080`
 
 ---
 
@@ -65,8 +64,6 @@ cd frontend
 npm install
 npm start
 ```
-
-Runs on: `http://localhost:3000`
 
 ---
 
